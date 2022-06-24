@@ -256,6 +256,12 @@ small{
     margin-left: 20px;
     display: none;
 }
+.cart{
+    transition: 0.4s;
+}
+.cart:hover{
+    transform: scale(1.1);
+}
 
 /* media query */
 
